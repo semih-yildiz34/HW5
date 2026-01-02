@@ -52,7 +52,7 @@ stm32_skeleton/Core/
 ├── lib_nn_kw.c
 └── lib_serialaudio.c
 
-```text
+```
 
 - `model_kw_int.h` contains the trained neural network weights and biases
   exported as fixed-point C arrays.
