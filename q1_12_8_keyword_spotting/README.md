@@ -40,7 +40,7 @@ The STM32-side implementation includes:
 
 The following components are provided:
 
----
+```text
 stm32_skeleton/Core/
 ├── Inc/
 │ ├── lib_nn_kw.h
@@ -50,7 +50,7 @@ stm32_skeleton/Core/
 ├── main.c
 ├── lib_nn_kw.c
 └── lib_serialaudio.c
----
+
 
 - `model_kw_int.h` contains the trained neural network weights and biases
   exported as fixed-point C arrays.
