@@ -2,7 +2,7 @@
 ## Keyword Spotting from Audio Signals (STM32-side Implementation)
 
 **Course:** EE4065 – Embedded Digital Image Processing  
-**Homework:** HW4  
+**Homework:** HW5
 
 **Authors:**  
 - Semih Yıldız – 150721029  
