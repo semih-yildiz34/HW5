@@ -2,7 +2,7 @@
 ## Handwritten Digit Recognition from Digital Images
 
 **Course:** EE4065 – Embedded Digital Image Processing  
-**Homework:** HW4  
+**Homework:** HW5  
 
 **Authors:**  
 - Semih Yıldız – 150721029  
